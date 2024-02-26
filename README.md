@@ -12,6 +12,6 @@ It's an arp network scanner which has ability to scans a wide range of addresses
    python3 arpscanner --help  #See usage information
 
 # Example of Usage :
-python3 arpscanner -t x.x.x.x #Single IP
-python3 arpscanner -t x.x.x.x/x #IP-Range
+`python3 arpscanner -t x.x.x.x`  : For Single IP
+`python3 arpscanner -t x.x.x.x/x` : For IP-Range
 
